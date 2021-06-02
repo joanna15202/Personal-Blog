@@ -1,6 +1,6 @@
 # Personal-Blog
 ## Introduction
-A personal blog that allows you to compose posts. 
+A personal blog that allows you to compose posts. A user can access the [link](https://floating-anchorage-12980.herokuapp.com/compose) to compose a new post.
 ## Frameworks/tools/libraries used
 1. Node.js
 2. Express.js
